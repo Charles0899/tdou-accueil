@@ -71,6 +71,8 @@
 
 
            <div class="rectangle-noir">
+             <p class="mobile-collection text-center">Collection 1</p>
+               <p class="mobile-region text-center">Le sticker région</p>
            </div>
            <div class="collections container-fluid">
              <div class="row">

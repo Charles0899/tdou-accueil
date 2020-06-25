@@ -980,5 +980,9 @@ float:right;
 .accueil-slogan1{display: block; font-family: Barlow Black; font-size: 60px; color: #000000;}
 .accueil-slogan2{display: block; font-family: Barlow Medium; font-size: 48px; color: #000000;}
 .accueil-slo{display: none;}
-.accueil-btn2{display: block;font-family: Barlow Bold; font-size: 36px; color: #1a58a1; position: relative; bottom: 9rem; left: 3rem;}
-.rectangle-noir{display: block; height: 130px; width: 320px; background-color: #000000;}
+.accueil-btn2{display: block;font-family: Barlow Bold; font-size: 36px; color: #1a58a1; position: relative; bottom: 9rem; left: 3rem; background-color: #ffffff;}
+.rectangle-noir{display: block; height: 130px; width: 320px; background-color: #000000; position: relative; bottom: 10rem;}
+.collections{display: none;}
+.rectangle2{display: none;}
+.mobile-collection{font-family: Barlow Black; font-size: 30px; color: #ffffff; position: relative; top: 1rem;}
+.mobile-region{font-family: Barlow Medium; font-size: 24px; color: #ffffff;}
